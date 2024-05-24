@@ -2,3 +2,4 @@ A demo message to add to commit through git --amend
 
 Commit #2 during squash activity
 Commit #3 during squash activity
+Commit #4 during squash activity
